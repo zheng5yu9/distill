@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="05b02d11-4062-46e2-b9a3-31be4ceaf604" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Chinese-ELECTRA/hparams.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/build_openwebtext_pretraining_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/build_openwebtext_pretraining_dataset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/build_pretraining_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/build_pretraining_dataset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/configure_finetuning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/configure_finetuning.py" afterDir="false" />
@@ -23,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/run_pretraining.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/run_pretraining.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/util/training_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/util/training_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chinese-ELECTRA/util/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chinese-ELECTRA/util/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TinyBert" beforeDir="false" afterPath="$PROJECT_DIR$/TinyBert" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TinyBert/general_distill.py" beforeDir="false" afterPath="$PROJECT_DIR$/TinyBert/general_distill.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,8 +268,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TinyBert/general_distill.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="216" column="49" selection-start-line="216" selection-start-column="33" selection-end-line="216" selection-end-column="49" />
+            <state relative-caret-position="165">
+              <caret line="218" column="25" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -471,17 +474,18 @@
       <workItem from="1594688005613" duration="194000" />
       <workItem from="1595255262769" duration="22040000" />
       <workItem from="1595491742901" duration="317000" />
-      <workItem from="1595522641399" duration="4698000" />
+      <workItem from="1595522641399" duration="5341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31415000" />
+    <option name="totallyTimeSpent" value="32058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="379" y="103" width="1350" height="1005" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1797235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1797235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -493,7 +497,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2626728" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2626728" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1066,8 +1070,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TinyBert/general_distill.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="216" column="49" selection-start-line="216" selection-start-column="33" selection-end-line="216" selection-end-column="49" />
+        <state relative-caret-position="165">
+          <caret line="218" column="25" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="25" />
         </state>
       </provider>
     </entry>
